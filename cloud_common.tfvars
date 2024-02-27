@@ -1,0 +1,5 @@
+project = "gintaa-cloud-develop"
+region = "asia-southeast1"
+zone = "asia-southeast1-a"
+env = "develop"
+prefix = "gintaa"
